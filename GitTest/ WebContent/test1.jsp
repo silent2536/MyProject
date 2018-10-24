@@ -10,7 +10,7 @@
 <h1>test1</h1>
 <h2>수정</h2>
 <h3>client</h3>
-<h3>server<h3
+<h3>server<h3>
      <h5>pull<h5>
 </body>
 </html>
